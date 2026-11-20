@@ -1,5 +1,1 @@
-(لیست اول)-[https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt]
-(لیست دوم)-[https://raw.githubusercontent.com/MMDMORGAN/MMD-LIST/refs/heads/main/mmdlist]
-(لیست سوم)-[https://shadowmere.xyz/api/b64sub/]!fil!
-(لیست چهارم)-[https://raw.githubusercontent.com/FLAT447/v2ray-lists/refs/heads/main/BLACK_FULL.txt]
 
